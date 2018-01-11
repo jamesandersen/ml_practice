@@ -4,3 +4,6 @@
 **/.local
 **/.keras
 **/.jupyter
+**/.cache
+**/.config
+__pycache__
